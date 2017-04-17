@@ -29,4 +29,5 @@ What courses and experiences as a Stanford graduate student do you think best eq
 
 In your About page, you wrote:
 > During the day, I split my time between working at the Brown Institute for Media Innovation at Stanford and on various data and graphics freelance projects. Nights, I’m either teaching at UC Berkeley, figure drawing or touring San Francisco’s Mission District taquerias.
+
 How do you feel about the taqueria scene in SF? What are your favorite spots? Do they have good vegetarian options?
