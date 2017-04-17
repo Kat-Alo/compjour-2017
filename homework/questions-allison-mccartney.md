@@ -22,8 +22,9 @@ V3 addresses a need within the industry and equips journalists to better communi
 
 What courses and experiences as a Stanford graduate student do you think best equipped you for working in journalism? What skills did you learn that made you a more competitive candidate for positions and projects you applied for? Do you have any dang-I-wish-I-had-done-X from your time at Stanford?
 
-### 4. 
+### 4. The war on media
 
+Trump's administration clearly does not hold the media in high regard. How can data journalism be used to combat the sentiment that the media is "the enemy of the people?"
 
 ### 5. SF Taquerias
 
